@@ -1,6 +1,6 @@
 ## Tweet-retrieval-for-Sentiment-Analysis
 
-This script uses Tweepy library of Python to access Twitter API. From, the twitter search API, it can be used to retrieve the tweet information like its time, tweet text, retweet count, tweet id, user is, user name,etc.
+This script uses Tweepy library of Python to access Twitter API. From the twitter search API, it can be used to retrieve the tweet information like its time, tweet text, retweet count, tweet id, user is, user name,etc.
 
 You will use your credentials to initialize the variables as follows:
 
