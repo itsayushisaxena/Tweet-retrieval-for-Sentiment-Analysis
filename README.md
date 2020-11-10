@@ -18,7 +18,7 @@ Thank you very much!
 
 For retrieving tweets older than a week, this code will not work.
 
-You can use this repository [link](https://github.com/AyushiiSaxena/Get_Old_Tweets-Python) to fetch 
+You can use this repository [link](https://github.com/itsayushisaxena/Get_Old_Tweets-Python) to fetch 
 older tweets from Twitter Search API. 
 
 My contact mail id is: **ayushisaxenamtr@gmail.com**
